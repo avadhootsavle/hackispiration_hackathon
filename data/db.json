@@ -1,0 +1,167 @@
+{
+  "inventory": [
+    {
+      "id": "don-1765026369323",
+      "bloodType": "O+",
+      "units": 1,
+      "city": "pune",
+      "hospital": "Avadhoot Savle",
+      "readyIn": "Available",
+      "contact": "+917738357979",
+      "addedBy": "Avadhoot Savle (Individual donor)",
+      "createdAt": "2025-12-06T13:06:09.323Z",
+      "status": "Ready"
+    },
+    {
+      "id": "don-1765026199956",
+      "bloodType": "O+",
+      "units": 1,
+      "city": "Mumbai",
+      "hospital": "kavya kaushik",
+      "readyIn": "Available",
+      "contact": "9004121576",
+      "addedBy": "kavya kaushik (Individual donor)",
+      "createdAt": "2025-12-06T13:03:19.956Z",
+      "status": "Ready"
+    }
+  ],
+  "requests": [],
+  "hospitals": [],
+  "sessions": [
+    {
+      "id": "user-1765026343565",
+      "name": "Avadhoot Savle",
+      "email": "avdhootsavle79@gmail.com",
+      "role": "Individual donor",
+      "organization": "",
+      "contact": "+917738357979",
+      "hospitalAccess": false
+    },
+    {
+      "id": "user-1765026172703",
+      "name": "kavya kaushik",
+      "email": "kavya@gmail.com",
+      "role": "Individual donor",
+      "organization": "",
+      "contact": "9004121576",
+      "hospitalAccess": false
+    },
+    {
+      "id": "user-1765026085488",
+      "name": "",
+      "email": "ambani@gmail.com",
+      "role": "Hospital",
+      "organization": "Ambani Hospital",
+      "contact": "8850480520",
+      "hospitalAccess": true
+    },
+    {
+      "id": "user-1765025605255",
+      "name": "",
+      "email": "nkhjgf@mail",
+      "role": "Hospital",
+      "organization": " bhjghf",
+      "contact": "kjhgf",
+      "hospitalAccess": true
+    },
+    {
+      "id": "user-1765025551927",
+      "name": "kavys",
+      "email": "kaushik@hh",
+      "role": "Individual donor",
+      "organization": "",
+      "contact": "909876",
+      "hospitalAccess": false
+    },
+    {
+      "id": "user-1765024715836",
+      "name": "cdccd",
+      "email": "avdhootsavle79@gmail.com",
+      "role": "Individual donor",
+      "organization": "",
+      "contact": "tyyyyt",
+      "hospitalAccess": false
+    },
+    {
+      "id": "user-1765024700736",
+      "name": "",
+      "email": "amolsavle9@gmail.com",
+      "role": "Hospital",
+      "organization": "rr",
+      "contact": "1234567999",
+      "hospitalAccess": true
+    },
+    {
+      "id": "user-1765024688983",
+      "name": "",
+      "email": "nista@gmail.com",
+      "role": "Hospital",
+      "organization": "nist",
+      "contact": "123456789",
+      "hospitalAccess": true
+    },
+    {
+      "id": "user-1765020286465",
+      "name": "avadhoot Savle",
+      "email": "avdhootsavle79@gmail.com",
+      "role": "Individual donor",
+      "organization": "",
+      "contact": "+917738357979",
+      "hospitalAccess": false
+    },
+    {
+      "id": "user-1765019134675",
+      "name": "Krish Shah",
+      "email": "krish@napptix.com",
+      "role": "Individual donor",
+      "organization": "",
+      "contact": "1234567890",
+      "hospitalAccess": false
+    },
+    {
+      "id": "user-1765018960340",
+      "name": "",
+      "email": "ambanihosp@gmail.com",
+      "role": "Hospital",
+      "organization": "ambani",
+      "contact": "222222111",
+      "hospitalAccess": true
+    },
+    {
+      "id": "user-1765018944078",
+      "name": "Avadhoot Savle",
+      "email": "avdhootsavle79@gmail.com",
+      "role": "Individual donor",
+      "organization": "",
+      "contact": "+917738357979",
+      "hospitalAccess": false
+    },
+    {
+      "id": "user-1765018606193",
+      "name": "Kavya",
+      "email": "kavya@kavya",
+      "role": "Individual donor",
+      "organization": "",
+      "contact": "9004121576",
+      "hospitalAccess": false
+    },
+    {
+      "id": "user-1765018605796",
+      "name": "",
+      "email": "ambai@gmail.com",
+      "role": "Hospital",
+      "organization": "Ambani ",
+      "contact": "9998298989",
+      "hospitalAccess": true
+    },
+    {
+      "id": "user-1765018218140",
+      "name": "krish shah",
+      "email": "krish@napptix.com",
+      "role": "Individual donor",
+      "organization": "",
+      "contact": "",
+      "hospitalAccess": false
+    }
+  ]
+}
